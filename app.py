@@ -1,6 +1,7 @@
 #dependencies
 from ntrs import ntrs
 
+
 ntrs = ntrs()
 
 # agentKeywordsSTR = 'Treating diabetes with herbs, phytoconstituent purchase, active ingredient manufacturers, biochemical diabetic treatment, chemical compound manufacture, phytonutrient medication, prophenylphenols diabetes, phytoconstituent production, phytoconstituent producer, phytoconstituent process, phytoconstituent fabrication, herbal diabetic, homeopathic manufacture, herbal remedies factory'

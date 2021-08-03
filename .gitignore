@@ -12,8 +12,8 @@ __pycache__/
 # VS code
 .vscode 
 
-Config
-.config
+#Config
+.config.py
 
 # Distribution / packaging
 .Python
